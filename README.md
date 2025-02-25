@@ -50,3 +50,5 @@ COMMITS into DB: persisted successfully, branch field updated to MAIN, author fr
 
 TEST 2
 create new branch FEATURE2
+GIT_COMMITTER_NAME="ltonlorenzi"
+GIT_COMMITTER_EMAIL="luciano.tonlorenzi@gmail.com" git commit --author="ltonlorenzi <luciano.tonlorenzi@gmail.com>" -m "commit from ltonlorenzi"
