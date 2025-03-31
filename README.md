@@ -121,3 +121,7 @@ Now I will go on deleting the branch on github
 nothing happens in the app and the db
 refetch branch: branch deleted from db and not listed - OK
 correctly main branch inserted into the commits
+
+
+test
+git checkou
